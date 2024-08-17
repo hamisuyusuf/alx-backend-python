@@ -1,7 +1,6 @@
 #!/usr/bin/env python3
 """
-Module 1-concat
-This module contains the concat function, which concatenates two strings.
+This file contains the concat function, which concatenates two strings.
 """
 
 
