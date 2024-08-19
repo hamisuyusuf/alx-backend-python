@@ -1,5 +1,8 @@
 #!/usr/bin/env python3
-
+"""
+    Module 0-basic_async_syntax
+    This module contains the wait_random.
+"""
 
 import asyncio
 import random
